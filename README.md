@@ -55,3 +55,8 @@ Advanced E-commerce Sales Analytics project built using Python to generate busin
 ```bash
 pip install pandas matplotlib
 python sales_analysis.py
+
+## 📈 Monthly Revenue Trend
+
+![Monthly Revenue Trend](Figure_1.png)
+
