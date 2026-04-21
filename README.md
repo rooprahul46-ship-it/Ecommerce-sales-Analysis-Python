@@ -1,19 +1,18 @@
 # 📊 E-commerce Sales Analysis using Python
 
-![Python](https://img.shields.io/badge/Python-3.14-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-green)
 ![Matplotlib](https://img.shields.io/badge/Charts-Visualization-orange)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
 ## 🚀 Project Overview
 
-Built an advanced business analytics project using Python to analyze e-commerce sales data and generate insights for revenue growth, top customers, category performance, and city-wise trends.
+Advanced E-commerce Sales Analytics project built using Python to generate business insights like revenue trends, category sales, customer performance, and city analysis.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tech Stack
 
 - Python
 - Pandas
@@ -24,29 +23,34 @@ Built an advanced business analytics project using Python to analyze e-commerce 
 
 ---
 
-## 📌 Key Features
+## 📌 Features
 
-✅ Total Revenue Calculation  
-✅ Total Orders Analysis  
-✅ Average Order Value  
-✅ Top 5 Customers Ranking  
-✅ Top Products by Revenue  
-✅ Category Performance Analysis  
-✅ City-wise Revenue Share  
-✅ Monthly Revenue Trend Charts  
-✅ Data Cleaning & KPI Reporting
+✅ Revenue Analysis  
+✅ Monthly Trend Analysis  
+✅ Top Customers  
+✅ Category Performance  
+✅ City-wise Sales  
+✅ Business Insights  
+✅ Dashboard Charts
 
 ---
 
-## 📂 Project Files
+## 📈 Monthly Revenue Trend
 
-- `sales_analysis.py`
-- `sales_data.csv`
-- `README.md`
+![Monthly Revenue Trend](Figure_1.png)
 
 ---
 
-## ▶️ How to Run
+## 📂 Files Included
+
+- sales_analysis.py
+- sales_data.csv
+- Figure_1.png
+- README.md
+
+---
+
+## ▶️ Run Project
 
 ```bash
 pip install pandas matplotlib
